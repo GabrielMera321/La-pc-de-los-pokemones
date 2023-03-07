@@ -3,7 +3,10 @@
 ![image](https://user-images.githubusercontent.com/105569564/223562895-d5e3dfbd-7889-4703-bc38-dea32dcb1e1e.png)
 
 ## ¡Bienvenidos!
-Este proyecto consiste en el desarrollo de un aplicativo en Java que emula el sistema de almacenamiento de Pokémon de un entrenador. Este sistema permite que el entrenador pueda almacenar hasta 6 Pokémon en su bolsillo y el resto de sus Pokémon en una PC con 3 cajas diferentes. El entrenador puede transferir sus Pokémon entre el bolsillo y la PC, así como también capturar nuevos Pokémon y liberar a los que ya tiene.
+Este proyecto consiste en el desarrollo de un aplicativo en Java que emula el sistema de almacenamiento de Pokémon de un entrenador. Este sistema permite que el entrenador pueda almacenar hasta 6 Pokémon en su bolsillo y el resto de sus Pokémon en una PC con 3 cajas diferentes. El entrenador puede transferir sus Pokémon entre el bolsillo y la PC, así como también capturar nuevos Pokémon y liberar a los que ya tiene. Todo esto ha sido solicitado por el gran profesor oak.
+
+![image](https://user-images.githubusercontent.com/105569564/223566421-558b9c66-1d98-4edb-a3e2-18c1589fa719.png)
+
 
 ## Requerimientos
 
@@ -48,3 +51,35 @@ El entrenador puede almacenar hasta 6 Pokémon en su bolsillo y el resto en la P
 Los datos de los Pokémon son sus estadísticas base, un mote, su nivel y 4 ataques aleatorios.
 
 El aplicativo permite hasta 4 conexiones diferentes simultáneas, sin que estas se choquen entre sí.
+
+# Licencia 
+
+La licencia que esta utilizando este proyecto es la GNU General Public License v3.0
+
+# Autores
+Este proyecto ha sido desarrollado por el equipo de ingenieros de sistemas de la universidad el bosque:
+
+- #### Gabriel Mera
+- #### Juan Felipe Valero
+- #### Santiago Reina
+
+# Tecnologías utilizadas
+
+Este proyecto ha sido desarrollado utilizando las siguientes tecnologías:
+
+- Java
+- Eclipse
+- Git
+
+# Diagrama de clases
+
+# Javadoc
+Se ha generado el Javadoc completo del proyecto, que puede ser accedido desde el archivo index.html en la carpeta javadoc.
+
+## Contacto
+Si tiene alguna pregunta o problema con el aplicativo, por favor, contáctenos a través del correo electrónico gmera@unbosque.edu.co
+
+## ¡Gracias por utilizar nuestro aplicativo!
+
+![image](https://user-images.githubusercontent.com/105569564/223567149-c7edb9d2-ecf2-4296-af61-22dc76ba784f.png)
+
