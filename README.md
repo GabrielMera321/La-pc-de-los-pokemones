@@ -73,13 +73,14 @@ Este proyecto ha sido desarrollado utilizando las siguientes tecnologías:
 
 # Diagrama de clases
 
-![image](C:\Users\Santiago Reina\Downloads\Diagrama en blanco (2).png)
+![image](![Diagrama en blanco (2)](https://user-images.githubusercontent.com/127044104/223626561-133bf50f-fb39-4355-8bb3-63f976ef7788.png)
+)
 
 # Javadoc
 Se ha generado el Javadoc completo del proyecto, que puede ser accedido desde el archivo index.html en la carpeta javadoc.
 
 ## Contacto
-Si tiene alguna pregunta o problema con el aplicativo, por favor, contáctenos a través del correo electrónico gmera@unbosque.edu.co
+Si tiene alguna pregunta o problema con el aplicativo, por favor, contáctenos a través del correo electrónico gmera@unbosque.edu.co, sreinap@unbosque.edu.co
 
 ## ¡Gracias por utilizar nuestro aplicativo!
 
