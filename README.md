@@ -69,9 +69,11 @@ Este proyecto ha sido desarrollado utilizando las siguientes tecnologías:
 
 - Java
 - Eclipse
-- Git
+- Git hub
 
 # Diagrama de clases
+
+![image](C:\Users\Santiago Reina\Downloads\Diagrama en blanco (2).png)
 
 # Javadoc
 Se ha generado el Javadoc completo del proyecto, que puede ser accedido desde el archivo index.html en la carpeta javadoc.
