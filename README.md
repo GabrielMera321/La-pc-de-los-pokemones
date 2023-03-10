@@ -72,7 +72,7 @@ Este proyecto ha sido desarrollado utilizando las siguientes tecnologías:
 - Git hub
 
 # Diagrama de clases
-![image](C:\Users\Santiago Reina\Downloads\Diagrama en blanco (3).png)
+![image](![Diagrama en blanco (3)](https://user-images.githubusercontent.com/127044104/224226150-1e9d4024-aa39-42d5-aec9-796f7dec15c9.png))
 
 # Javadoc
 Se ha generado el Javadoc completo del proyecto, que puede ser accedido desde el archivo index.html en la carpeta javadoc.
